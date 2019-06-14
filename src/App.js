@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Learn React - This is an update on the testing split branch.
         </a>
       </header>
     </div>
